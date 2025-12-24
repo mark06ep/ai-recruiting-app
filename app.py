@@ -223,8 +223,8 @@ else:
     
     st.markdown("""
         <div style="font-size: 0.95em; margin-bottom: 10px; color: #666;">
-            当社の <a href="#" style="color:#e63946; text-decoration:underline;">プライバシーポリシー</a> および 
-            <a href="#" style="color:#e63946; text-decoration:underline;">個人情報保護規定</a> に同意の上、ご相談ください。
+            当社の <a href="https://mixjob.co.jp/privacy/" style="color:#e63946; text-decoration:underline;">プライバシーポリシー</a> および 
+            <a href="https://mixjob.co.jp/privacy/" style="color:#e63946; text-decoration:underline;">個人情報保護規定</a> に同意の上、ご相談ください。
         </div>
         """, unsafe_allow_html=True)
     
